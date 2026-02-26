@@ -1,2 +1,2 @@
 # ProProjects
-Portfolio &amp; Training
+Portfolio & Projects; Training
