@@ -1,0 +1,6 @@
+import requests
+from bs4 import BeauifulSoup
+
+res = request.get('https://news.ycombinator.com/news')
+soup = BeauifulSoup()res.text, 'html.parser')
+print(soup.select('#score_20514755'))
