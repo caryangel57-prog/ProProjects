@@ -1,0 +1,9 @@
+userName: **********
+accessKey: ***********
+platforms:
+  - os: Windows
+    browserName: Chrome
+    browserVersion: latest
+projectName: BrowserStack Self-Heal
+sessionName: First Self-Heal Test
+selfHeal: true
