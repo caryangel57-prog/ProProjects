@@ -1,0 +1,5 @@
+from selenium import webdriver
+
+chrome_broswer = webdriver.Chrome('./chromedriver')
+
+chrome_broswer.get('https://www.seleniumeasy.com/test')
